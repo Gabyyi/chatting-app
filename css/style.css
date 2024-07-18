@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    overflow-x: hidden;
+}
+.top{
+    padding-top: 10px;
+    /* background-color: steelblue; */
+}
+/* .top .logo img{
+    margin-left: 0;
+    margin-right: 60px;
+    width: 200px;
+    height: auto;
+} */
+
+/* .top a{
+    float: right;
+    margin-right: 10%;
+} */
+/* .top .profile img{
+    width: 50px;
+    height: auto;
+} */
+
+.main img{
+    width: 800px;
+    height: auto;
+    align-items: center;
+    /* margin-left: 10%; */
+    /* margin-top: -30px; */
+} 
+.main ul{
+    /* width: 20%; */
+    /* min-width: 200px; */
+    /* max-width: 400px; */
+    margin-left: 10%;
+    margin-top: 10%;
+    list-style: none;
+    padding: 0;
+}
+.main li{
+    background-color:steelblue;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 5px;
+    text-align: center;
+}
+.main a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: large;
+} 
+
+.title1{
+    width: 20%;
+}
+.title2{
+    width: 80%;
+}
+.logo{
+    width: 10%;
+}
+.logo a{
+    cursor: pointer;
+}
+.logo img{
+    width: 200px;
+    margin-left: 90%;
+}
+.profile{
+    width: 10%;
+    /* float: right; */
+}
+.profile a{
+    float: right;
+}
+.profile img{
+    width: 50px;
+    float: left;
+    /* padding-left: 100px; */
+    margin-left: 100px;
+}

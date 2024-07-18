@@ -74,7 +74,9 @@
                 <li><a href="../EN/en_chat.php">EN</a></li>
                 <li><a href="../ISB/isb_chat.php">ISB</a></li>
                 <li><a href="../FILS/fils_chat.php">FILS</a></li>
-                <li><a href="acs_chat.php">ACS</a></li>
+                <div class="open-chat">
+                    <li><a href="acs_chat.php">ACS</a></li>
+                </div>
                 <li><a href="../TR/tr_chat.php">TR</a></li>
                 <li><a href="../FSA/fsa_chat.php">FSA</a></li>
                 <li><a href="../ETTI/etti_chat.php">ETTI</a></li>

@@ -71,7 +71,9 @@
                 <li><a href="../IE/ie_chat.php">IE</a></li>
                 <li><a href="../FIIR/fiir_chat.php">FIIR</a></li>
                 <li><a href="../ICB/icb_chat.php">ICB</a></li>
-                <li><a href="en_chat.php">EN</a></li>
+                <div class="open-chat">
+                    <li><a href="en_chat.php">EN</a></li>
+                </div>
                 <li><a href="../ISB/isb_chat.php">ISB</a></li>
                 <li><a href="../FILS/fils_chat.php">FILS</a></li>
                 <li><a href="../ACS/acs_chat.php">ACS</a></li>

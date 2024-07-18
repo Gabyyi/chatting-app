@@ -68,7 +68,9 @@
                 <div class="main-menu">
                     <li><a href="../index.php">Main Menu</a></li>
                 </div>
-                <li><a href="ie_chat.php">IE</a></li>
+                <div class="open-chat">
+                    <li><a href="ie_chat.php">IE</a></li>
+                </div>
                 <li><a href="../FIIR/fiir_chat.php">FIIR</a></li>
                 <li><a href="../ICB/icb_chat.php">ICB</a></li>
                 <li><a href="../EN/en_chat.php">EN</a></li>

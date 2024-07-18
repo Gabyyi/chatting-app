@@ -70,7 +70,9 @@
                 </div>
                 <li><a href="../IE/ie_chat.php">IE</a></li>
                 <li><a href="../FIIR/fiir_chat.php">FIIR</a></li>
-                <li><a href="icb_chat.php">ICB</a></li>
+                <div class="open-chat">
+                    <li><a href="icb_chat.php">ICB</a></li>
+                </div>
                 <li><a href="../EN/en_chat.php">EN</a></li>
                 <li><a href="../ISB/isb_chat.php">ISB</a></li>
                 <li><a href="../FILS/fils_chat.php">FILS</a></li>

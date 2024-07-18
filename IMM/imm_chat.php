@@ -80,7 +80,9 @@
                 <li><a href="../ETTI/etti_chat.php">ETTI</a></li>
                 <li><a href="../IA/ia_chat.php">IA</a></li>
                 <li><a href="../IM/im_chat.php">IM</a></li>
-                <li><a href="imm_chat.php">IMM</a></li>
+                <div class="open-chat">
+                    <li><a href="imm_chat.php">IMM</a></li>
+                </div>
                 <li><a href="../SIM/sim_chat.php">SIM</a></li>
                 <li><a href="../FAIMA/faima_chat.php">FAIMA</a></li>
             </ul>

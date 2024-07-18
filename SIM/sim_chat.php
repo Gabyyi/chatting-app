@@ -81,7 +81,9 @@
                 <li><a href="../IA/ia_chat.php">IA</a></li>
                 <li><a href="../IM/im_chat.php">IM</a></li>
                 <li><a href="../IMM/imm_chat.php">IMM</a></li>
-                <li><a href="sim_chat.php">SIM</a></li>
+                <div class="open-chat">
+                    <li><a href="sim_chat.php">SIM</a></li>
+                </div>
                 <li><a href="../FAIMA/faima_chat.php">FAIMA</a></li>
             </ul>
         </div>

@@ -82,7 +82,9 @@
                 <li><a href="../ICB/icb_chat.php">ICB</a></li>
                 <li><a href="../EN/en_chat.php">EN</a></li>
                 <li><a href="../ISB/isb_chat.php">ISB</a></li>
-                <li><a href="fils_chat.php">FILS</a></li>
+                <div class="open-chat">
+                    <li><a href="fils_chat.php">FILS</a></li>
+                </div>    
                 <li><a href="../ACS/acs_chat.php">ACS</a></li>
                 <li><a href="../TR/tr_chat.php">TR</a></li>
                 <li><a href="../FSA/fsa_chat.php">FSA</a></li>
