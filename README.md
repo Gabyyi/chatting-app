@@ -8,3 +8,4 @@ It uses MySQL to store all needed data and PHP to process that data.
 -process images and videos as messages <br>
 -like posts and comment on that post <br>
 -add user classes such as student, teacher, admin etc. <br>
+
