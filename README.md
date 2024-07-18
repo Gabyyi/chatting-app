@@ -3,6 +3,7 @@
 A university chat app containing 15 channels, one for each faculty.
 
 It uses MySQL to store all needed data and PHP to process that data.
+
 #
 ![Screenshot (40)](https://github.com/user-attachments/assets/384199b6-b814-466f-b145-9d80ecaaf232)
 #
